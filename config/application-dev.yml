@@ -1,1 +1,2 @@
+spring.cloud.config.label: develop
 message: hello-update-again-from-dev
